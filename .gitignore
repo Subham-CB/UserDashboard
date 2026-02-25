@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+frontend/.env.local
+frontend/.env.production
+
+# .NET
+backend/**/.vs/
+backend/**/bin/
+backend/**/obj/
+backend/**/*.user
+backend/**/*.suo
+
+# Environment
+.env
+*.env.local
+
+# Docker
+.dockerignore
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
