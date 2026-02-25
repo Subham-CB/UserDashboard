@@ -8,11 +8,12 @@ frontend/.env.local
 frontend/.env.production
 
 # .NET
-backend/**/.vs/
-backend/**/bin/
-backend/**/obj/
-backend/**/*.user
-backend/**/*.suo
+.vs/
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+*.slnx
 
 # Environment
 .env
