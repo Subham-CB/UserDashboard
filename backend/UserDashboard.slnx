@@ -1,4 +1,2 @@
 <Solution>
-  <Project Path="UserDashboard.API/UserDashboard.API.csproj" />
-  <Project Path="UserDashboard.Tests/UserDashboard.Tests.csproj" />
 </Solution>
